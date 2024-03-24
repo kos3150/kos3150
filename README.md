@@ -14,9 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![alt text] https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif
+
 I'm currently working on my bachelor's degree in **Graphic Information Technology** at **Arizona State University**
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program
 I'm currently learning HTML5, CSS and JavaScript coding languages through **Introduction to Web Authoring**
 My contact information is kosmock@asu.edu and I am currently a senior scheduled to graduate in the fall
 
+![68747470733a2f2f666f7274686562616467652e636f6d2f696d616765732f6261646765732f6275696c742d776974682d6c6f76652e737667](https://github.com/kos3150/kos3150/assets/142562646/cc2b58ed-8b82-411a-8233-8d4c8a00747e)
