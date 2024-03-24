@@ -1,9 +1,7 @@
 ### Hi there 👋
 Hello to all the people that helped me along the way! <strong>Behold What God Can Do!</strong>
 <h1>Kim Smock</h1>
-![alt text](thumbnail-3.jpg)
-<img src="https://images.unsplash.com/photo-1640746122834-ea181d0dcedd?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxNDU4OXwwfDF8cmFuZG9tfHx8fHx8fHx8MTY0MTA3NDM5NQ&ixlib=rb-1.2.1&q=85" alt = 
-"bookshelf with several books, a pink camera, a snowglobe, a hello kitty stuffed animal and a teddy bear holding a heart">
+
     <p><q>Short quote from someone.</q></p>  
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
