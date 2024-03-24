@@ -31,6 +31,7 @@ My hobbies include, photography and collecting digital images. I enjoy traveling
 ![213760718-ca064723-1c29-4b82-985c-aadc7f57c090](https://github.com/kos3150/kos3150/assets/142562646/ce7c66fb-bd56-4e88-98ba-f30e8d1c169b)
 
 I'm currently learning **HTML5**, **CSS** and **JavaScript** coding languages through **Introduction to Web Authoring**. 
+
 **Technical skills**
   - Adobe Photoshop
   - Adobe Illustrator
