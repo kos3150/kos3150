@@ -19,9 +19,13 @@ Here are some ideas to get you started:
 -->
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/kos3150/kos3150/assets/142562646/2096ad02-11e1-4235-8cf2-30537aa732c6)
 
+![238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9](https://github.com/kos3150/kos3150/assets/142562646/476773c0-7471-41c7-ba8e-f86b3a34407b)
+
+![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/kos3150/kos3150/assets/142562646/a4dbceeb-2bfc-431a-8e51-1203befe1567)
 
 I'm currently working on my bachelor's degree in **Graphic Information Technology** at **Arizona State University**
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program
 I'm currently learning HTML5, CSS and JavaScript coding languages through **Introduction to Web Authoring**
 My contact information is kosmock@asu.edu and I am currently a senior scheduled to graduate in the fall
-![212741495-c8f8df15-ce6c-4203-a6e5-b93530e778d7](https://github.com/kos3150/kos3150/assets/142562646/5a57755f-491c-439b-9747-eb825a89a256)
+
+![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/kos3150/kos3150/assets/142562646/3c025cbb-7eba-4d72-b190-1bfd16e9bc42)
