@@ -23,10 +23,9 @@ I'm currently working on my bachelor's degree in **Graphic Information Technolog
 
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program.
 
-My goal is to work as a freelance graphic designer and manage my graphic design studio as Media Design Group Inc: https://www.1mediatechnologies.com/
+My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, **Media Design Group Inc**. https://www.1mediatechnologies.com/
 
-
-My hobbies include, photography and collecting digital images. I enjoy traveling, working in my yard, riding my bike, driving my car and spending time with my family and friends.
+My hobbies include, cooking, photography and collecting digital images, interior design and residential and commercial archetecture design. I enjoy traveling, working in my yard, riding my bike, driving my car and spending time with my family and friends.
 
 ![213760718-ca064723-1c29-4b82-985c-aadc7f57c090](https://github.com/kos3150/kos3150/assets/142562646/ce7c66fb-bd56-4e88-98ba-f30e8d1c169b)
 I'm currently learning **HTML5**, **CSS** and **JavaScript** coding languages through **Introduction to Web Authoring**. 
@@ -51,4 +50,4 @@ LinkedIn: https://www.linkedin.com
 
 CodePen: https://www.codepen.com
 
-Behancev: https://www.behance.net
+Behance: https://www.behance.net
