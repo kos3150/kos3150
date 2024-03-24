@@ -31,6 +31,6 @@ I'm currently a senior at ASU scheduled to graduate in the fall. My contact info
 
 LinkedIn: https://www.linkedin.com
 
-CodePen: https://codepen.io/your-work)https://codepen.io/your-work
+CodePen: https://codepen.com
 
 Behancev	[title](https:
