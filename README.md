@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/kos3150/kos3150/assets/142562646/2096ad02-11e1-4235-8cf2-30537aa732c6)
+
 I'm currently working on my bachelor's degree in **Graphic Information Technology** at **Arizona State University**
 
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program
