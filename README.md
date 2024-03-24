@@ -18,3 +18,4 @@ I'm currently working on my bachelor's degree in **Graphic Information Technolog
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program
 I'm currently learning HTML5, CSS and JavaScript coding languages through **Introduction to Web Authoring**
 My contact information is kosmock@asu.edu and I am currently a senior scheduled to graduate in the fall
+[title](https://www.https://user-images.githubusercontent.com/74038190/213760718-ca064723-1c29-4b82-985c-aadc7f57c090.gif
