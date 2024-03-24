@@ -45,7 +45,7 @@ My hobbies include, cooking, photography and collecting digital images and admir
 
 I'm currently a senior at ASU scheduled to graduate in the fall. My contact information is kosmock@asu.edu
 
-###Additional Resources
+**Additional Resources**
 
 LinkedIn: https://www.linkedin.com
 
