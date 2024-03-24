@@ -24,6 +24,7 @@ I'm currently working on my bachelor's degree in **Graphic Information Technolog
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program.
 
 I'm currently learning **HTML5**, **CSS** and **JavaScript** coding languages through **Introduction to Web Authoring**.
+![213760718-ca064723-1c29-4b82-985c-aadc7f57c090](https://github.com/kos3150/kos3150/assets/142562646/ce7c66fb-bd56-4e88-98ba-f30e8d1c169b)
 
 I'm currently a senior at ASU scheduled to graduate in the fall. My contact information is kosmock@asu.edu and 
 ![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/kos3150/kos3150/assets/142562646/3c025cbb-7eba-4d72-b190-1bfd16e9bc42)
