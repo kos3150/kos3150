@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello to all the people that helped me along the way! <strong>Behold What God Can Do!</strong>
-<h1>Kim Smock</h1>
+##Kim Smock
 ![image](https://github.com/kos3150/kos3150/assets/142562646/ac447e83-c027-4d71-9603-214bc3e9f8b6)
 
 <!--
