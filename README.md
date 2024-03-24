@@ -40,11 +40,9 @@ My hobbies include, cooking, photography and collecting digital images and admir
   - Microsoft Visual Studio
   - GitHub
   - GitHub Desktop
-  - CodePen
-    
-I'm currently a senior at ASU scheduled to graduate in the fall. My contact information is kosmock@asu.edu
+  - CodePen    
 ![216644497-1951db19-8f3d-4e44-ac08-8e9d7e0d94a7](https://github.com/kos3150/kos3150/assets/142562646/3c025cbb-7eba-4d72-b190-1bfd16e9bc42)
-
+I'm currently a senior at ASU scheduled to graduate in the fall. My contact information is kosmock@asu.edu
 LinkedIn: https://www.linkedin.com
 
 CodePen: https://www.codepen.com
