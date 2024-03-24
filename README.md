@@ -25,7 +25,7 @@ I'm able to attend a four-year university through the **Department of Veterans A
 
 My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, **Media Design Group Inc**. https://www.1mediatechnologies.com/
 
-My hobbies include, cooking, photography and collecting digital images, interior design and residential and commercial archetectural design. I enjoy traveling, working in my yard, riding my bike, driving my car and spending time with my wife Joy and our two cats, Blaze and Styxx and our family and friends.
+My hobbies include, cooking, photography and collecting digital images and admiring archetectural and interior design. I enjoy traveling, working and relaxing at home, short road trips and spending time with my wife Joy and our two cats, Blaze and Styxx and also spending time with our family and friends.
 
 ![213760718-ca064723-1c29-4b82-985c-aadc7f57c090](https://github.com/kos3150/kos3150/assets/142562646/ce7c66fb-bd56-4e88-98ba-f30e8d1c169b)
 I'm currently learning **HTML5**, **CSS** and **JavaScript** coding languages through **Introduction to Web Authoring**. 
