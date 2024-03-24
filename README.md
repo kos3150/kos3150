@@ -1,7 +1,6 @@
 ### Hi there 👋
 Hello to all the people that helped me along the way! <strong>Behold What God Can Do!</strong>
 ##Kim Smock
-![image](https://github.com/kos3150/kos3150/assets/142562646/ac447e83-c027-4d71-9603-214bc3e9f8b6)
 
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
