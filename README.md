@@ -1,7 +1,7 @@
 ### Hi there 👋
 Hello to all the people that helped me along the way! <strong>Behold What God Can Do!</strong>
 <h1>Kim Smock</h1>
-![alt text](image.jpg)
+![alt text](thumbnail-3.jpg)
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
