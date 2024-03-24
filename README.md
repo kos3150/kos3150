@@ -18,11 +18,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/kos3150/kos3150/assets/142562646/2096ad02-11e1-4235-8cf2-30537aa732c6)
-
-![238200426-29fd6286-4e7b-4d6c-818f-c4765d5e39a9](https://github.com/kos3150/kos3150/assets/142562646/476773c0-7471-41c7-ba8e-f86b3a34407b)
-
-![238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb](https://github.com/kos3150/kos3150/assets/142562646/a4dbceeb-2bfc-431a-8e51-1203befe1567)
-
 I'm currently working on my bachelor's degree in **Graphic Information Technology** at **Arizona State University**
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program
 I'm currently learning HTML5, CSS and JavaScript coding languages through **Introduction to Web Authoring**
