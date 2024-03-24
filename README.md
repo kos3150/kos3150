@@ -1,6 +1,6 @@
 ### Hi there 👋
 Hello to all the people that helped me along the way! **Behold What God Can Do!**
-# Kim Smock
+# Kim Smock :joy:
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
