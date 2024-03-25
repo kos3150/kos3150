@@ -52,6 +52,6 @@ I'm currently a senior at ASU scheduled to graduate in the fall. My contact info
 
 LinkedIn: https://www.linkedin.com
 
-CodePen: https://[www.https://codepen.io
+CodePen: https://www.https://codepen.io
 
 Behance: https://www.behance.net
