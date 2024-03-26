@@ -1,4 +1,4 @@
-# Hi there :joy:!
+# Hi there :joy:
 
 ## Hello to all the people that helped me along the way! 
 Kim Smock, F/T Student ASU, Freelance Graphic Designer, Web Developer, Creative Director, Agency: Media Design Group Inc.
