@@ -1,5 +1,3 @@
-(https://github.com/kos3150/kos3150/assets/142562646/ff5f8f82-2eeb-4c92-bce3-613ac6d8c234)
-
 # Hi there :joy:!
 
 ## Hello to all the people that helped me along the way! 
