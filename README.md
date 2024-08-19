@@ -21,7 +21,7 @@ I'm currently working on my bachelor's degree in **Graphic Information Technolog
 
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program.
 
-My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, **Media Design Group Inc**. https://www.justsaywin.com
+My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, **Kimmy Smock Media Group**. https://justsaywin.com/
 
 My hobbies include, cooking, photography and collecting digital images and admiring archetectural and interior design. I enjoy traveling, working and relaxing at home, short road trips and spending time with my wife Joy and our two cats, Blaze and Styxx and family and friends.
 
@@ -48,7 +48,7 @@ I'm currently a senior at ASU scheduled to graduate in the fall. My contact info
 
 **Additional Resources**
 
-Website: https://www.justsaywin.com
+Website: https://justsaywin.com/
 
 LinkedIn: https://www.linkedin.com
 
