@@ -21,7 +21,7 @@ I'm currently working on my bachelor's degree in **Graphic Information Technolog
 
 I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program.
 
-My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, **kimmysmock media group**. justsaywin.com
+My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, *Media Design Group** https://www.1mediatechnologies.com
 
 My hobbies include, cooking, photography and collecting digital images and admiring archetectural and interior design. I enjoy traveling, working and relaxing at home, short road trips and spending time with my wife Joy and our two cats, Blaze and Styxx and family and friends.
 
