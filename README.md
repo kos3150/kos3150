@@ -1,7 +1,7 @@
 # Hi there :joy:
 
 ## Hello to all the people that helped me along the way! 
-I'm a Full-time Student ASU, Freelance Graphic Designer, Web Developer, Creative Director, Graphic Design Studio: Media Design Group.
+I'm a Full-time Student at Arizona State University and Freelance Graphic Designer, Web Developer, and Creative Director. Studio: Media Design Group | Upland, California USA.
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
