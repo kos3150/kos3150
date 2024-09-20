@@ -17,13 +17,11 @@ Here are some ideas to get you started:
 -->
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/kos3150/kos3150/assets/142562646/2096ad02-11e1-4235-8cf2-30537aa732c6)
 
-I'm currently working on my bachelor's degree in **Graphic Information Technology** at **Arizona State University**.
+I'm currently working on my bachelor's degree in **Graphic Information Technology and I'm able to attend a four-year university through the Department of Veterans Affairs Vocational Readiness and Employment Program.
 
-I'm able to attend a four-year university through the **Department of Veterans Affairs Vocational Readiness** and **Employment** Program.
+My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, Media Design Group https://www.1mediatechnologies.com
 
-My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, *Media Design Group** https://www.1mediatechnologies.com
-
-My hobbies include, cooking, photography and digital imaging and illustration. I am inspired by archetecture and interior design. I enjoy traveling, working and relaxing at home, short road trips and spending time with my wife Joy and our two cats, Blaze and Styxx and my family and friends.
+My hobbies include, cooking, photography and I enjoy listening to my music. I am inspired by commercial and residential archetecture and interior space design. I also enjoy traveling, working and relaxing at home, and spending time with my wife Joy and our two cats, Blaze and Styxx and my family and friends.
 
 ![213760718-ca064723-1c29-4b82-985c-aadc7f57c090](https://github.com/kos3150/kos3150/assets/142562646/ce7c66fb-bd56-4e88-98ba-f30e8d1c169b) 
 
