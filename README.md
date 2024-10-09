@@ -46,7 +46,7 @@ I'm currently a senior at ASU scheduled to graduate in the fall. My contact info
 
 **Additional Resources**
 
-Website: justsaywin.com
+Website: [justsaywin.com](https://justsaywin.com/)
 
 LinkedIn: https://www.linkedin.com
 
