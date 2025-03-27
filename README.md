@@ -33,6 +33,7 @@ I'm currently learning **HTML5**, **CSS** and **JavaScript** additional Coding L
   - Adobe Photoshop
   - Adobe Illustrator
   - Adobe InDesign
+  - Adobe After Effects
   - QuarkXPress
   - Microsoft Word
   - Microsoft Excel
