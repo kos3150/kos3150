@@ -1,7 +1,7 @@
 # Hi there :joy:
 
 ## Hello to all the people that helped me along the way! 
-I'm a Full-time Student at Arizona State University and Freelance Graphic Designer, Web Developer, and Creative Director. Studio: Media Design Group | Upland, California USA.
+I graduated from Arizona State University, Ira J. Fulton School of Engineering and I am currently working as a Freelance Graphic Designer, Web Developer, and Creative Director. Studio: Media Design Group | Upland, California USA.
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 -->
 ![212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86](https://github.com/kos3150/kos3150/assets/142562646/2096ad02-11e1-4235-8cf2-30537aa732c6)
 
-I'm currently working on my bachelor's degree in **Graphic Information Technology and I'm able to attend a four-year university through the Department of Veterans Affairs Vocational Readiness and Employment Program.
+I earned my bachelor of science degree in Graphic Information Technology and I was able to attend a four-year university through the Department of Veterans Affairs Vocational Readiness and Employment Program.
 
-My goal is to work as a freelance graphic designer and manage my own small business and graphic design studio, Media Design Group https://www.1mediatechnologies.com
+My goal is to work as a professional content provider, graphic designer and web developer managing my own small business and graphic design studio, Media Design Group https://www.1mediatechnologies.com
 
 My hobbies include, cooking, photography and I enjoy listening to my music. I am inspired by commercial and residential archetecture and interior space design. I also enjoy traveling, working and relaxing at home, and spending time with my wife Joy and our two cats, Blaze and Styxx and my family and friends.
 
