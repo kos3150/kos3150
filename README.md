@@ -43,7 +43,8 @@ I'm currently learning **HTML5**, **CSS** and **JavaScript** additional Coding L
   - GitHub Desktop
   - CodePen    
 
-I'm currently a senior at ASU scheduled to graduate in the fall. My contact information is kosmock@asu.edu
+Bachelor of Science | Graphic Information Technology Arizona State University Ira A. Fulton Schools of Engineering
+My contact information is kim.o.smock@gmail.com
 
 **Additional Resources**
 
