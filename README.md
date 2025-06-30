@@ -1,7 +1,7 @@
 # Hi there :joy:
 
-## Hello to all the people that helped me along the way! 
-I graduated from Arizona State University, Ira J. Fulton School of Engineering and I am currently working as a Freelance Graphic Designer, Web Developer, and Creative Director. Studio: Media Design Group | Upland, California USA.
+## Thank you to all the people that helped me along the way! 
+I graduated from Arizona State University, Ira A. Fulton School of Engineering and I'm currently working as a Freelance Graphic Designer, Web Developer, and Creative Director. Studio: Media Design Group | Upland, California USA.
 <!--
 **kos3150/kos3150** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
