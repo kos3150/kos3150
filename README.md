@@ -52,6 +52,4 @@ Website: [justsaywin.com](https://justsaywin.com/)
 
 LinkedIn: https://www.linkedin.com
 
-CodePen: https://www.codepen.io
-
 Behance: https://www.behance.net
